@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<secciones>
+	<lang value="es">  
+		<cover>covers/randomhome_es.swf</cover> 
+	</lang>
+	<lang value="en">  
+		<cover>covers/randomhome_en.swf</cover> 
+	</lang>
+	<lang value="fr">  
+		<cover>covers/randomhome_fr.swf</cover> 
+	</lang>	
+	<lang value="it">  
+		<cover>covers/randomhome_it.swf</cover> 
+	</lang>		
+	<lang value="po">  
+		<cover>covers/randomhome_po.swf</cover> 
+	</lang>	
+	<lang value="de">  
+		<cover>covers/randomhome_de.swf</cover> 
+	</lang>			
+</secciones>

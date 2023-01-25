@@ -1,0 +1,141 @@
+#
+# robots.txt
+#
+
+User-agent: Orthogaffe
+Disallow: /
+
+User-agent: UbiCrawler
+Disallow: /
+
+User-agent: DOC
+Disallow: /
+
+User-agent: Zao
+Disallow: /
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Zealbot
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+User-agent: wget
+Disallow: /
+
+User-agent: grub-client
+Disallow: /
+
+User-agent: k2spider
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: Twitterbot
+Allow: /img/* 
+
+User-agent: Facebot
+Allow: /files/*
+
+
+
+User-agent: *
+Allow: /img/HomeSeccions/*
+Allow: /img/Categorias/Adivinanzas/*
+Disallow:/css/*
+Disallow:/files/*
+Disallow:/fonts/*
+Disallow:/ie/*
+Disallow:/images/*
+Disallow:/img/*
+Disallow:/newsletters/*
+Disallow:/js/*
+Disallow:/memcached/*
+Disallow:/swf/*
+Disallow:/index.php
+Disallow:/index.php/
+Disallow:/index.php?*
+Disallow:/index.php/*
+Disallow:/*.js
+Disallow:/pocoyize_swf/*
+Disallow:/publi/*
+Disallow:/advertising/*
+Disallow:/jwplayer/*
+Disallow:/play_ground/*
+Disallow:/play_ground_v1.0/*
+Disallow:/app/webroot/play_ground/*
+Disallow:/developer/*
+Disallow:/app/webroot/img/Dibujo/
+Disallow:/app/webroot/img/Manualidad/
+Disallow:/app/webroot/img/Tupocoyo/
+Disallow:/app/webroot/img/ConcursoFoto/
+Disallow:/en/community/birthday-cakes/*
+Disallow:/en/community/birthday-party/*
+Disallow:/en/community/drawings/*
+Disallow:/en/community/kids-pocoyo/*
+Disallow:/en/community/travel-around-the-world/*
+Disallow:/en/community/your-arts-crafts/*
+Disallow:/comunidad/dibujos/*
+Disallow:/comunidad/fiestas-infantiles-cumpleanos/*
+Disallow:/comunidad/ninos-pocoyo/*
+Disallow:/comunidad/tartas/*
+Disallow:/comunidad/tus-manualidades/*
+Disallow:/comunidad/vacaciones-vuelta-mundo/*
+Disallow:/concursos/foto/*
+Disallow:/en/contests/foto/*
+Disallow:/recordar_password

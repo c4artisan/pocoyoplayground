@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<secciones>
+	<lang value="es">  
+		<objeto> 
+			<boton>Boton 1</boton>
+			<texto>Fondos de#escritorio</texto>
+			<persiana>1</persiana>
+			<carga_swf>menu/wallpapers/wallpapers.swf</carga_swf>
+			<logo_carga>loading.LOGO_WALLPAPERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 2</boton>
+			<texto>Salvapantallas</texto>
+			<persiana>2</persiana>
+			<carga_swf>menu/screensavers/screensavers.swf</carga_swf>
+			<logo_carga>loading.LOGO_SCREENSAVERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 3</boton>
+			<texto>Postales #electrónicas</texto>
+			<persiana>3</persiana>
+			<carga_swf>menu/ecards/ecards_pocoyo.swf</carga_swf>
+			<logo_carga>loading.LOGO_ECARDS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 4</boton>
+			<texto>Juegos</texto>
+			<persiana>4</persiana>
+			<carga_swf>menu/games/games.swf</carga_swf>
+			<logo_carga>loading.LOGO_GAMES</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 5</boton>
+			<texto>Cine</texto>
+			<persiana>5</persiana>
+			<carga_swf>menu/showroom/showroom.swf</carga_swf>
+			<logo_carga>loading.LOGO_SHOWROOM</logo_carga>
+		</objeto> 		
+	</lang>
+	<lang value="en">  
+		<objeto> 
+			<boton>Boton 1</boton>
+			<texto>Wallpapers</texto>
+			<persiana>1</persiana>
+			<carga_swf>menu/wallpapers/wallpapers.swf</carga_swf>
+			<logo_carga>loading.LOGO_WALLPAPERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 2</boton>
+			<texto>Screensavers</texto>
+			<persiana>2</persiana>
+			<carga_swf>menu/screensavers/screensavers.swf</carga_swf>
+			<logo_carga>loading.LOGO_SCREENSAVERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 3</boton>
+			<texto>Ecards</texto>
+			<persiana>3</persiana>
+			<carga_swf>menu/ecards/ecards_pocoyo.swf</carga_swf>
+			<logo_carga>loading.LOGO_ECARDS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 4</boton>
+			<texto>Games</texto>
+			<persiana>4</persiana>
+			<carga_swf>menu/games/games.swf</carga_swf>
+			<logo_carga>loading.LOGO_GAMES</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 5</boton>
+			<texto>Cinema</texto>
+			<persiana>5</persiana>
+			<carga_swf>menu/showroom/showroom.swf</carga_swf>
+			<logo_carga>loading.LOGO_SHOWROOM</logo_carga>
+		</objeto> 
+	</lang>
+	<lang value="fr">  
+		<objeto> 
+			<boton>Boton 1</boton>
+			<texto>Nouveaux fonds #d’écran</texto>
+			<persiana>1</persiana>
+			<carga_swf>menu/wallpapers/wallpapers.swf</carga_swf>
+			<logo_carga>loading.LOGO_WALLPAPERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 2</boton>
+			<texto>Écran veille</texto>
+			<persiana>2</persiana>
+			<carga_swf>menu/screensavers/screensavers.swf</carga_swf>
+			<logo_carga>loading.LOGO_SCREENSAVERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 3</boton>
+			<texto>E-cartes</texto>
+			<persiana>3</persiana>
+			<carga_swf>menu/ecards/ecards_pocoyo.swf</carga_swf>
+			<logo_carga>loading.LOGO_ECARDS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 4</boton>
+			<texto>Jeux</texto>
+			<persiana>4</persiana>
+			<carga_swf>menu/games/games.swf</carga_swf>
+			<logo_carga>loading.LOGO_GAMES</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 5</boton>
+			<texto>Cinéma</texto>
+			<persiana>5</persiana>
+			<carga_swf>menu/showroom/showroom.swf</carga_swf>
+			<logo_carga>loading.LOGO_SHOWROOM</logo_carga>
+		</objeto> 
+	</lang>	
+	<lang value="it">  
+		<objeto> 
+			<boton>Boton 1</boton>
+			<texto>Nuovi sfondi#per il desktop#del tuo pc</texto>
+			<persiana>1</persiana>
+			<carga_swf>menu/wallpapers/wallpapers.swf</carga_swf>
+			<logo_carga>loading.LOGO_WALLPAPERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 2</boton>
+			<texto>Salvaschermi</texto>
+			<persiana>2</persiana>
+			<carga_swf>menu/screensavers/screensavers.swf</carga_swf>
+			<logo_carga>loading.LOGO_SCREENSAVERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 3</boton>
+			<texto>Cartoline virtuali</texto>
+			<persiana>3</persiana>
+			<carga_swf>menu/ecards/ecards_pocoyo.swf</carga_swf>
+			<logo_carga>loading.LOGO_ECARDS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 4</boton>
+			<texto>Giochi</texto>
+			<persiana>4</persiana>
+			<carga_swf>menu/games/games.swf</carga_swf>
+			<logo_carga>loading.LOGO_GAMES</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 5</boton>
+			<texto>Cinematografo</texto>
+			<persiana>5</persiana>
+			<carga_swf>menu/showroom/showroom.swf</carga_swf>
+			<logo_carga>loading.LOGO_SHOWROOM</logo_carga>
+		</objeto> 
+	</lang>		
+	<lang value="po">  
+		<objeto> 
+			<boton>Boton 1</boton>
+			<texto>Novos wallpapers</texto>
+			<persiana>1</persiana>
+			<carga_swf>menu/wallpapers/wallpapers.swf</carga_swf>
+			<logo_carga>loading.LOGO_WALLPAPERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 2</boton>
+			<texto>Protector#de telas</texto>
+			<persiana>2</persiana>
+			<carga_swf>menu/screensavers/screensavers.swf</carga_swf>
+			<logo_carga>loading.LOGO_SCREENSAVERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 3</boton>
+			<texto>Postais electrónicos</texto>
+			<persiana>3</persiana>
+			<carga_swf>menu/ecards/ecards_pocoyo.swf</carga_swf>
+			<logo_carga>loading.LOGO_ECARDS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 4</boton>
+			<texto>Jogos</texto>
+			<persiana>4</persiana>
+			<carga_swf>menu/games/games.swf</carga_swf>
+			<logo_carga>loading.LOGO_GAMES</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 5</boton>
+			<texto>Cinema</texto>
+			<persiana>5</persiana>
+			<carga_swf>menu/showroom/showroom.swf</carga_swf>
+			<logo_carga>loading.LOGO_SHOWROOM</logo_carga>
+		</objeto> 
+	</lang>	
+	<lang value="de">  
+		<objeto> 
+			<boton>Boton 1</boton>
+			<texto>Neue Bildschirmschoner</texto>
+			<persiana>1</persiana>
+			<carga_swf>menu/wallpapers/wallpapers.swf</carga_swf>
+			<logo_carga>loading.LOGO_WALLPAPERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 2</boton>
+			<texto>Bildschirmschoner</texto>
+			<persiana>2</persiana>
+			<carga_swf>menu/screensavers/screensavers.swf</carga_swf>
+			<logo_carga>loading.LOGO_SCREENSAVERS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 3</boton>
+			<texto>Postkarten</texto>
+			<persiana>3</persiana>
+			<carga_swf>menu/ecards/ecards_pocoyo.swf</carga_swf>
+			<logo_carga>loading.LOGO_ECARDS</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 4</boton>
+			<texto>Spiele</texto>
+			<persiana>4</persiana>
+			<carga_swf>menu/games/games.swf</carga_swf>
+			<logo_carga>loading.LOGO_GAMES</logo_carga>
+		</objeto> 
+		<objeto> 
+			<boton>Boton 5</boton>
+			<texto>Kino</texto>
+			<persiana>5</persiana>
+			<carga_swf>menu/showroom/showroom.swf</carga_swf>
+			<logo_carga>loading.LOGO_SHOWROOM</logo_carga>
+		</objeto> 
+	</lang>			
+</secciones>

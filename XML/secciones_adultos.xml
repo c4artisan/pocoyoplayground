@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<secciones_adultos>
+	<lang value="es">  
+		<objeto> 
+			<texto>PARA LOS PADRES</texto>
+			<color>D0554F</color>
+			<carga_swf>parents_menu/parentsplace/parentsplace.swf</carga_swf>
+			<logo_carga>loading.LOGO_PARENTS</logo_carga>
+			<ico>1</ico>
+		</objeto> 
+		<objeto> 
+			<texto>PROGRAMACIÓN TV</texto>
+			<color>795DA1</color>
+			<carga_swf>parents_menu/tvschedule/tvschedule.swf</carga_swf>
+			<logo_carga>loading.LOGO_TV</logo_carga>
+			<ico>2</ico>
+		</objeto> 
+		<objeto> 
+			<texto>TIENDA Pocoyo</texto>
+			<color>FE944E</color>
+			<carga_swf>parents_menu/store/es/store.swf</carga_swf>
+			<logo_carga>loading.LOGO_STORE</logo_carga>
+			<ico>3</ico>
+		</objeto> 
+		<objeto> 
+			<texto>CONTACTO</texto>
+			<color>909090</color>
+			<carga_swf>parents_menu/contactus/contactus.swf</carga_swf>
+			<logo_carga>loading.LOGO_CONTACT</logo_carga>
+			<ico>4</ico>
+		</objeto> 
+	</lang>
+	<lang value="en">  
+		<objeto> 
+			<texto>PARENTS PLACE</texto>
+			<color>D0554F</color>
+			<carga_swf>parents_menu/parentsplace/parentsplace.swf</carga_swf>
+			<logo_carga>loading.LOGO_PARENTS</logo_carga>
+			<ico>1</ico>
+		</objeto> 
+		<objeto> 
+			<texto>TV SCHEDULE</texto>
+			<color>795DA1</color>
+			<carga_swf>parents_menu/tvschedule/tvschedule.swf</carga_swf>
+			<logo_carga>loading.LOGO_TV</logo_carga>
+			<ico>2</ico>
+		</objeto> 
+		<objeto> 
+			<texto>POCOYO`S STORE</texto>
+			<color>FE944E</color>
+			<carga_swf>parents_menu/store/en/store.swf</carga_swf>
+			<logo_carga>loading.LOGO_STORE</logo_carga>
+			<ico>3</ico>
+		</objeto> 
+		<objeto> 
+			<texto>CONTACT US</texto>
+			<color>909090</color>
+			<carga_swf>parents_menu/contactus/contactus.swf</carga_swf>
+			<logo_carga>loading.LOGO_CONTACT</logo_carga>
+			<ico>4</ico>
+		</objeto> 
+	</lang>
+	<lang value="fr">  
+		<objeto> 
+			<texto>ESPACE PARENTS</texto>
+			<color>D0554F</color>
+			<carga_swf>parents_menu/parentsplace/parentsplace.swf</carga_swf>
+			<logo_carga>loading.LOGO_PARENTS</logo_carga>
+			<ico>1</ico>
+		</objeto> 
+		<objeto> 
+			<texto>HORAIRE TV </texto>
+			<color>795DA1</color>
+			<carga_swf>parents_menu/tvschedule/tvschedule.swf</carga_swf>
+			<logo_carga>loading.LOGO_TV</logo_carga>
+			<ico>2</ico>
+		</objeto> 
+		<objeto> 
+			<texto>MAGAZIN DE POCOYO</texto>
+			<color>FE944E</color>
+			<carga_swf>parents_menu/store/fr/store.swf</carga_swf>
+			<logo_carga>loading.LOGO_STORE</logo_carga>
+			<ico>3</ico>
+		</objeto> 
+		<objeto> 
+			<texto>CONTACT</texto>
+			<color>909090</color>
+			<carga_swf>parents_menu/contactus/contactus.swf</carga_swf>
+			<logo_carga>loading.LOGO_CONTACT</logo_carga>
+			<ico>4</ico>
+		</objeto> 
+	</lang>	
+	<lang value="it">  
+		<objeto> 
+			<texto>L’ANGOLO DEI GENITORI</texto>
+			<color>D0554F</color>
+			<carga_swf>parents_menu/parentsplace/parentsplace.swf</carga_swf>
+			<logo_carga>loading.LOGO_PARENTS</logo_carga>
+			<ico>1</ico>
+		</objeto> 
+		<objeto> 
+			<texto>PROGRAMMAZIONE TV</texto>
+			<color>795DA1</color>
+			<carga_swf>parents_menu/tvschedule/tvschedule.swf</carga_swf>
+			<logo_carga>loading.LOGO_TV</logo_carga>
+			<ico>2</ico>
+		</objeto> 
+		<objeto> 
+			<texto>IL NEGOZIO DI POCOYO</texto>
+			<color>FE944E</color>
+			<carga_swf>parents_menu/store/it/store.swf</carga_swf>
+			<logo_carga>loading.LOGO_STORE</logo_carga>
+			<ico>3</ico>
+		</objeto> 
+		<objeto> 
+			<texto>CONTATTO</texto>
+			<color>909090</color>
+			<carga_swf>parents_menu/contactus/contactus.swf</carga_swf>
+			<logo_carga>loading.LOGO_CONTACT</logo_carga>
+			<ico>4</ico>
+		</objeto> 
+	</lang>	
+	<lang value="po">  
+		<objeto> 
+			<texto>ÁREA PARA OS PAIS</texto>
+			<color>D0554F</color>
+			<carga_swf>parents_menu/parentsplace/parentsplace.swf</carga_swf>
+			<logo_carga>loading.LOGO_PARENTS</logo_carga>
+			<ico>1</ico>
+		</objeto> 
+		<objeto> 
+			<texto>PROGRAMAÇÃO TV</texto>
+			<color>795DA1</color>
+			<carga_swf>parents_menu/tvschedule/tvschedule.swf</carga_swf>
+			<logo_carga>loading.LOGO_TV</logo_carga>
+			<ico>2</ico>
+		</objeto> 
+		<objeto> 
+			<texto>A LOJA DE Pocoyo</texto>
+			<color>FE944E</color>
+			<carga_swf>parents_menu/store/pt/store.swf</carga_swf>
+			<logo_carga>loading.LOGO_STORE</logo_carga>
+			<ico>3</ico>
+		</objeto> 
+		<objeto> 
+			<texto>CONTACTOS</texto>
+			<color>909090</color>
+			<carga_swf>parents_menu/contactus/contactus.swf</carga_swf>
+			<logo_carga>loading.LOGO_CONTACT</logo_carga>
+			<ico>4</ico>
+		</objeto> 
+	</lang>	
+	<lang value="de">  
+		<objeto> 
+			<texto>FÜR ELTERN</texto>
+			<color>D0554F</color>
+			<carga_swf>parents_menu/parentsplace/parentsplace.swf</carga_swf>
+			<logo_carga>loading.LOGO_PARENTS</logo_carga>
+			<ico>1</ico>
+		</objeto> 
+		<objeto> 
+			<texto>FERNSEHPROGRAMM</texto>
+			<color>795DA1</color>
+			<carga_swf>parents_menu/tvschedule/tvschedule.swf</carga_swf>
+			<logo_carga>loading.LOGO_TV</logo_carga>
+			<ico>2</ico>
+		</objeto> 
+		<objeto> 
+			<texto>POCOYO-SHOP</texto>
+			<color>FE944E</color>
+			<carga_swf>parents_menu/store/de/store.swf</carga_swf>
+			<logo_carga>loading.LOGO_STORE</logo_carga>
+			<ico>3</ico>
+		</objeto> 
+		<objeto> 
+			<texto>KONTAKT</texto>
+			<color>909090</color>
+			<carga_swf>parents_menu/contactus/contactus.swf</carga_swf>
+			<logo_carga>loading.LOGO_CONTACT</logo_carga>
+			<ico>4</ico>
+		</objeto> 
+	</lang>				
+</secciones_adultos>

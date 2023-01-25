@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reloj>
+	<lang value="es">  
+		<texto_reloj>TIEMPO DE JUEGO</texto_reloj>
+		<boton1 value1="AJUSTAR" value2="REAJUSTAR"/>
+		<boton2 value1="COMENZAR" value2="COMENZAR"/>
+	</lang>
+	<lang value="en">  
+		<texto_reloj>PLAY TIMER</texto_reloj>
+		<boton1 value1="SET" value2="RESET"/>
+		<boton2 value1="PLAY" value2="PLAY"/>
+
+	</lang>
+	<lang value="fr">  
+		<texto_reloj>PLAY TIMER</texto_reloj>
+		<boton1 value1="SET" value2="RESET"/>
+		<boton2 value1="PLAY" value2="PLAY"/>
+	</lang>	
+</reloj>

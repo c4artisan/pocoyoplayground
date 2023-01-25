@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<secciones>
+	<lang value="es">  
+		<titulo1>El patinete de Elly</titulo1>
+		<titulo2>La Máquina de Colores</titulo2>
+		<titulo3>El juego de las parejas</titulo3>
+		<titulo4>La Cámara de Pocoyó</titulo4>
+		<titulo5>El Baile de Pocoyó</titulo5>
+	</lang>
+	<lang value="en">  
+		<titulo1>El patinete de Elly</titulo1>
+		<titulo2>La Máquina de Colores</titulo2>
+		<titulo3>Matching Game</titulo3>
+		<titulo4>La Cámara de Pocoyó</titulo4>
+		<titulo5>Pocoyo Dance</titulo5>
+	</lang>
+	<lang value="fr">  
+		<titulo1>El patinete de Elly</titulo1>
+		<titulo2>La Máquina de Colores</titulo2>
+		<titulo3>El juego de las parejas</titulo3>
+		<titulo4>La Cámara de Pocoyó</titulo4>
+		<titulo5>El Baile de Pocoyó</titulo5>
+	</lang>	
+	<lang value="it">  
+		<titulo1>El patinete de Elly</titulo1>
+		<titulo2>La Máquina de Colores</titulo2>
+		<titulo3>El juego de las parejas</titulo3>
+		<titulo4>La Cámara de Pocoyó</titulo4>
+		<titulo5>El Baile de Pocoyó</titulo5>
+	</lang>	
+	<lang value="po">  
+		<titulo1>El patinete de Elly</titulo1>
+		<titulo2>La Máquina de Colores</titulo2>
+		<titulo3>El juego de las parejas</titulo3>
+		<titulo4>La Cámara de Pocoyó</titulo4>
+		<titulo5>El Baile de Pocoyó</titulo5>
+	</lang>	
+	<lang value="de">  
+		<titulo1>El patinete de Elly</titulo1>
+		<titulo2>La Máquina de Colores</titulo2>
+		<titulo3>El juego de las parejas</titulo3>
+		<titulo4>La Cámara de Pocoyó</titulo4>
+		<titulo5>El Baile de Pocoyó</titulo5>
+	</lang>				
+</secciones>

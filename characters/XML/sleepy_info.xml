@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<secciones>
+	<lang value="es">  
+		<titulo>Pajaroto</titulo>
+		<boton1>QUIÉN SOY</boton1>
+		<carga_boton1>characters/sleepy_info.swf</carga_boton1>
+		<boton2>ACTIVIDADES</boton2>
+		<carga_boton2>characters/activities/activities.swf</carga_boton2>
+		<texto>Es un pájaro muy, muy dormilón.  Aunque a veces parezca que el gruñón de Pajaroto sólo se despierta para apagar el despertador, Pocoyo suele salirse con la suya y levantarlo para que participe en las aventuras y los juegos con los que todos los días se ríen y se divierten los demás.</texto>
+	</lang>
+	<lang value="en">  
+		<titulo>Sleepy bird</titulo>
+		<boton1>ABOUT ME</boton1>
+		<carga_boton1>characters/sleepy_info.swf</carga_boton1>
+		<boton2>ACTIVITIES</boton2>
+		<carga_boton2>characters/activities/activities.swf</carga_boton2>		
+		<texto>The name says it all. This bird is very, very sleepy. 
+Though it sometimes appears that grumpy Sleepy Bird only
+ wakes up to turn off her alarm clock, Pocoyo can usually get her up and moving, as well as laughing and participating in 
+the day’s adventures.</texto>
+	</lang>
+	<lang value="fr">  
+		<titulo>Dodoloiseau</titulo>
+		<boton1>QUI SUIS-JE</boton1>
+		<carga_boton1>characters/sleepy_info.swf</carga_boton1>
+		<boton2>ACTIVITÉS</boton2>
+		<carga_boton2>characters/activities/activities.swf</carga_boton2>
+		<texto>Son nom en dit long… c’est un oiseau très, très endormi. 
+Même si parfois il semblerait que le grincheux Dodoloiseau ne se réveille que pour éteindre son réveil, Pocoyo parvient normalement à le réveiller pour qu’il participe aux aventures et aux jeux qui les font rire et s’amuser tous les jours.</texto>
+	</lang>	
+	<lang value="it">  
+		<titulo>Ronfone</titulo>
+		<boton1>SU DI ME</boton1>
+		<carga_boton1>characters/sleepy_info.swf</carga_boton1>
+		<boton2>ATTIVITÀ</boton2>
+		<carga_boton2>characters/activities/activities.swf</carga_boton2>
+		<texto>Il nome dice tutto: questo uccello è molto, molto dormiglione.  Ma anche se a volte sembra che lo scontroso Ronfone apra gli occhi solo per spegnere la sveglia, il nostro Pocoyo riesce sempre a scuoterlo: lo porta in giro a divertirsi e a partecipare alle sue avventure.</texto>
+	</lang>	
+	<lang value="po">  
+		<titulo>Dorminhoca</titulo>
+		<boton1>SOBRE MIM</boton1>
+		<carga_boton1>characters/sleepy_info.swf</carga_boton1>
+		<boton2>ATIVIDADES</boton2>
+		<carga_boton2>characters/activities/activities.swf</carga_boton2>
+		<texto>O nome já diz tudo. Este pássaro é muito, muito dorminhoco.
+Embora às vezes pareça que a irritável Dorminhoca só acorde para desligar o seu alarme, normalmente Pocoyo pode fazer com que desperte e se mova, além de rir e participar nas aventuras do dia.</texto>
+	</lang>	
+	<lang value="de">  
+		<titulo>Schlummerpieps</titulo>
+		<boton1>ÜBER MICH</boton1>
+		<carga_boton1>characters/sleepy_info.swf</carga_boton1>
+		<boton2>TÄTIGKEITEN</boton2>
+		<carga_boton2>characters/activities/activities.swf</carga_boton2>
+		<texto>Er ist ein sehr, sehr verschlafener Vogel. Obwohl es manchmal so erscheint, als wenn die mürrische Schlummerpieps nur aufwacht, um den Wecker auszuschalten, gewinnt meistens doch Pocoyo und bringt ihn zum Aufstehen, damit er an den Abenteuern und Spielen teilnimmt, an denen sich alle anderen jeden Tag vergnügen und erfreuen.</texto>
+	</lang>				
+</secciones>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<sonidos>
+	<lang value="es">  
+		<archivo>sounds/sounds_es.swf</archivo>
+	</lang>
+	<lang value="en">  
+		<archivo>sounds/sounds_en.swf</archivo>
+	</lang>
+	<lang value="fr">  
+		<archivo>sounds/sounds_en.swf</archivo>
+	</lang>	
+	<lang value="it">  
+		<archivo>sounds/sounds_en.swf</archivo>
+	</lang>		
+	<lang value="po">  
+		<archivo>sounds/sounds_pt.swf</archivo>
+	</lang>		
+	<lang value="de">  
+		<archivo>sounds/sounds_en.swf</archivo>
+	</lang>	
+</sonidos>

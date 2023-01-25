@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<actividades>
+	<lang value="es">  
+		<objeto> 
+			<ico_g>characters/contenido/ico_7_pato.png</ico_g>
+			<pdf>characters/es/printables/print_018_airmail_plane.pdf</pdf> 			
+			<nombre>Correo aéreo</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto>	
+		<objeto> 
+			<ico_g>characters/contenido/ico_1_pato.png</ico_g>
+			<pdf>characters/es/printables/print_003_pato.pdf</pdf> 
+			<nombre>Colorea a Pato</nombre>
+			<ico_p>2,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_2_pato.png</ico_g>
+			<pdf>characters/es/printables/print_007_pato.pdf</pdf> 
+			<nombre>las diferencias de Pato</nombre>
+			<ico_p>3,2,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_3_pato.png</ico_g>
+			<pdf>characters/es/printables/print_013_pato.pdf</pdf> 			
+			<nombre>La Caja de la Amistad</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_4_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Próximamente</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_5_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Próximamente</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 	
+	</lang>
+	<lang value="en">  
+		<objeto> 
+			<ico_g>characters/contenido/ico_7_pato.png</ico_g>
+			<pdf>characters/en/printables/print_018_airmail_plane.pdf</pdf> 			
+			<nombre>Air mail</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto>
+		<objeto> 
+			<ico_g>characters/contenido/ico_1_pato.png</ico_g>
+			<pdf>characters/en/printables/print_003_pato.pdf</pdf> 
+			<nombre>Coloring Pato</nombre>
+			<ico_p>2,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_2_pato.png</ico_g>
+			<pdf>characters/en/printables/print_007_pato.pdf</pdf> 
+			<nombre>Different Picture</nombre>
+			<ico_p>3,2,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_3_pato.png</ico_g>
+			<pdf>characters/en/printables/print_013_pato.pdf</pdf> 			
+			<nombre>Friendship Box</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_4_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Coming Soon</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_5_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Coming Soon</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 		
+	</lang>
+	<lang value="fr">  
+		<objeto> 
+			<ico_g>characters/contenido/ico_7_pato.png</ico_g>
+			<pdf>characters/fr/printables/print_018_airmail_plane.pdf</pdf> 			
+			<nombre>Courrier par Avion</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto>	
+		<objeto> 
+			<ico_g>characters/contenido/ico_1_pato.png</ico_g>
+			<pdf>characters/fr/printables/print_003_pato.pdf</pdf> 
+			<nombre>Décore Pato</nombre>
+			<ico_p>2,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_2_pato.png</ico_g>
+			<pdf>characters/fr/printables/print_007_pato.pdf</pdf> 
+			<nombre>Cherche l´intrus</nombre>
+			<ico_p>3,2,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_3_pato.png</ico_g>
+			<pdf>characters/fr/printables/print_013_pato.pdf</pdf> 			
+			<nombre>La boîte de l´amitié</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_4_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Bientôt</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_5_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Bientôt</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 	
+	</lang>
+	<lang value="it">  
+		<objeto> 
+			<ico_g>characters/contenido/ico_7_pato.png</ico_g>
+			<pdf>characters/it/printables/print_018_airmail_plane.pdf</pdf> 			
+			<nombre>Posta Aerea</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto>	
+		<objeto> 
+			<ico_g>characters/contenido/ico_1_pato.png</ico_g>
+			<pdf>characters/it/printables/print_003_pato.pdf</pdf> 
+			<nombre>Colora Pato</nombre>
+			<ico_p>2,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_2_pato.png</ico_g>
+			<pdf>characters/it/printables/print_007_pato.pdf</pdf> 
+			<nombre>Trova l’intruso</nombre>
+			<ico_p>3,2,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_3_pato.png</ico_g>
+			<pdf>characters/it/printables/print_013_pato.pdf</pdf> 			
+			<nombre>Scatola di amicizia</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_4_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>In arrivo</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_5_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>In arrivo</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 		
+	</lang>
+	<lang value="po">  
+		<objeto> 
+			<ico_g>characters/contenido/ico_7_pato.png</ico_g>
+			<pdf>characters/po/printables/print_018_airmail_plane.pdf</pdf> 			
+			<nombre>Correio aéreo</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto>	
+		<objeto> 
+			<ico_g>characters/contenido/ico_1_pato.png</ico_g>
+			<pdf>characters/po/printables/print_003_pato.pdf</pdf> 
+			<nombre>Pintar Pato</nombre>
+			<ico_p>2,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_2_pato.png</ico_g>
+			<pdf>characters/po/printables/print_007_pato.pdf</pdf> 
+			<nombre>As diferenças</nombre>
+			<ico_p>3,2,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_3_pato.png</ico_g>
+			<pdf>characters/po/printables/print_013_pato.pdf</pdf> 			
+			<nombre>A caixa da amizade</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_4_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Em breve</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_5_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Em breve</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 		
+	</lang>	
+	<lang value="de">  
+		<objeto> 
+			<ico_g>characters/contenido/ico_7_pato.png</ico_g>
+			<pdf>characters/de/printables/print_018_airmail_plane.pdf</pdf> 			
+			<nombre>Luftpost Flugzeug</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto>
+		<objeto> 
+			<ico_g>characters/contenido/ico_1_pato.png</ico_g>
+			<pdf>characters/de/printables/print_003_pato.pdf</pdf> 
+			<nombre>Male Pato aus</nombre>
+			<ico_p>2,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_2_pato.png</ico_g>
+			<pdf>characters/de/printables/print_007_pato.pdf</pdf> 
+			<nombre>Die Unterschiede</nombre>
+			<ico_p>3,2,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_3_pato.png</ico_g>
+			<pdf>characters/de/printables/print_013_pato.pdf</pdf> 			
+			<nombre>Freundschaftkasten</nombre>
+			<ico_p>4,5,9,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_4_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Bald kommen</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 
+		<objeto> 
+			<ico_g>characters/contenido/ico_5_pato.png</ico_g>
+			<pdf>""</pdf> 			
+			<nombre>Bald kommen</nombre>
+			<ico_p>1,1,1,1,1</ico_p>
+		</objeto> 		
+	</lang>		
+</actividades> 
