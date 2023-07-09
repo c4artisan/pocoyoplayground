@@ -18,15 +18,15 @@
 	<lang value="en">  
 		<objeto> 
 			<titulo>MOVIES DO NOT WORK</titulo>
-			<carga_peli></carga_peli>
+			<carga_peli>1_hush_en.flv</carga_peli>
 		</objeto> 
 		<objeto> 
 			<titulo>RUFFLE CANNOT PLAY FLV</titulo>
-			<carga_peli></carga_peli>
+			<carga_peli>2_baile_pocoyo_en.flv</carga_peli>
 		</objeto> 
 		<objeto> 
 			<titulo>THIS WILL BE REVERTED ONCE IT CAN</titulo>
-			<carga_peli></carga_peli>
+			<carga_peli>3_musica_maestro_en.flv</carga_peli>
 		</objeto> 
 	</lang>
 	<lang value="fr">  
